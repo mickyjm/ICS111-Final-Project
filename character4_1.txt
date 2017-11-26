@@ -1,0 +1,106 @@
+HIDE
+FRAME 8
+HIDE
+SCALE 0.15 1
+MOVE 813 661 1
+MOVE 813 661 73
+SHOW
+MOVE 813 661 .5
+MOVE 700 572 1.5
+MOVE 700 572 2
+SCALE .2 0.1
+SCALE .15 0.1
+SCALE .2 0.1
+SCALE .15 0.1
+SCALE .2 0.1
+SCALE .15 0.1
+SCALE .2 0.1
+SCALE .15 0.1
+SCALE .2 0.1
+SCALE .15 0.1
+SCALE .2 0.1
+SCALE .15 0.1
+SCALE .2 0.1
+SCALE .15 0.1
+SCALE .2 0.1
+SCALE .15 0.1
+SCALE .2 0.1
+SCALE .15 0.1
+SCALE .2 0.1
+SCALE .15 0.1
+MOVE 700 572 10.5
+sync 550 470 0 2 3
+sync 550 470 - - .5
+sync -400 - - - 1.5
+sync -400 - - - 2
+sync 630 569 - 0.15 4
+sync 138 660 - - 3.5
+FRAME 2
+sync 177 626 - - 2.5
+FRAME 2
+sync 219 655 - - 2.5
+FRAME 1
+sync 190 700 - - 2.5
+FRAME 7
+sync 138 660 - - 2.5
+FRAME 2
+sync 138 660 - - 2
+FRAME 2
+MOVE 813 661 4
+FRAME 3
+HIDE
+MOVE 813 661 18
+SHOW
+sync 1054 707 - - .5
+FRAME 2
+sync 1054 701 - - .1
+FRAME 1
+sync 1054 707 - - .1
+FRAME 8
+sync 1054 701 - - .1
+FRAME 7
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+sync 1054 701 - - .1
+sync 1054 707 - - .1
+FRAME 6
+sync 1054 707 - - 1
+FRAME 5

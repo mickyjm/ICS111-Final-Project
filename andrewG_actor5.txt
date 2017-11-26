@@ -1,0 +1,39 @@
+hide
+control 695 547 0 1 79
+show
+control 695 547 0 .5 .2
+control 695 547 0 1 .2
+control 695 547 0 .5 .2
+control 695 547 0 1 .2
+hide
+control 966 553 -25 1 55.5
+show
+control 966 553 -25 1.5 .1
+control 966 553 -25 1 .1
+control 966 553 -25 1.5 .1
+control 966 553 -25 1 .1
+control 980 553 0 1 0
+control 980 553 0 1.5 .1
+control 980 553 0 1 .1
+control 980 553 0 1.5 .1
+control 980 553 0 1 .1
+control 994 553 25 1 0
+control 994 553 25 1.5 .1
+control 994 553 25 1 .1
+control 994 553 25 1.5 .1
+control 994 553 25 1 .1
+control 966 553 -25 1.5 .1
+control 966 553 -25 1 .1
+control 966 553 -25 1.5 .1
+control 966 553 -25 1 .1
+control 980 553 0 1 0
+control 980 553 0 1.5 .1
+control 980 553 0 1 .1
+control 980 553 0 1.5 .1
+control 980 553 0 1 .1
+control 994 553 25 1 0
+control 994 553 25 1.5 .1
+control 994 553 25 1 .1
+control 994 553 25 1.5 .1
+control 994 553 25 1 .1
+hide

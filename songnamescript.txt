@@ -1,0 +1,5 @@
+moscro - - 0 - 0
+moscro 640 270 1 - 250
+moscro - - - - 1000
+moscro 64 36 0 - 250
+fin

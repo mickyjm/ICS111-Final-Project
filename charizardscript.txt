@@ -1,0 +1,18 @@
+moscro - - 0 - 0
+moscro - - - - 35000
+moscro - - 2 - 0
+moscro 676 108 - - 5000
+moscro 646 78 - - 500
+moscro - 108 - - -
+moscro 676 78 - - -
+moscro 706 108 - - -
+moscro - 78 - - -
+moscro 676 108 - - -
+moscro 646 78 - - -
+moscro - 108 - - -
+moscro 676 78 - - -
+moscro 706 108 - - -
+moscro -150 445 - - 4000
+moscro - - 0 - 0
+hide
+fin

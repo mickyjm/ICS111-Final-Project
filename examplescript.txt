@@ -1,0 +1,155 @@
+hide
+moscro - - - - 7000
+moscro 640 300 .5 -45 500
+show
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+moscro - - .5 -45 250
+moscro - - .25 -20 250
+moscro - - .5 0 250
+moscro - - .25 20 250
+moscro - - .5 45 250
+moscro - - .25 20 250
+moscro - - .5 0 250
+moscro - - .25 -20 250
+
+fin

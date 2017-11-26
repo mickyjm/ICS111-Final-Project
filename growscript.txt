@@ -1,0 +1,10 @@
+stop
+moscro - - 0 - 0
+moscro - - - - 62500
+moscro - - 1 - 0
+start
+moscro - - - - 24000
+moscro - - 0 - 0
+hide
+fin
+ 

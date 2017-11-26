@@ -1,0 +1,29 @@
+frame 1 12 //City Sky Line Script
+frame 2 .54
+frame 3 .54
+frame 4 .54
+frame 5 .54
+frame 6 .54
+frame 5 .54
+frame 4 .54
+frame 3 .54
+frame 2 .54
+frame 1 5.5
+frame 2 .54
+frame 3 .54
+frame 4 .54
+frame 5 .54
+frame 6 .54
+frame 5 .54
+frame 4 .54
+frame 3 .54
+frame 2 .54
+frame 1 .54
+hide
+control 640 360 0 1 25.78
+show
+frame 1 .54
+control 640 360 0 1 4
+hide
+control 640 360 0 1 88
+show

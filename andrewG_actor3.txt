@@ -1,0 +1,97 @@
+control 68 747 0 2 .01 //character Script
+frame 4 1
+frame 3 .3
+frame 4 .3
+frame 5 .3
+control 75 646 0 .7 1
+frame 4 .2
+control 85 614 0 .2 2
+control 227 634 0 .15 1.5
+control 490 581 0 .15 2
+control 634 500 0 .15 2.5
+control 883 463 0 .15 2.5
+control 1122 392 0 .15 2
+control 1238 363 0 .15 1
+frame 4 1.5
+frame 5 .5
+frame 6 .5
+frame 7 1
+frame 6 .5
+frame 5 .5
+frame 4 1
+frame 5 .5
+frame 6 .5
+frame 7 1
+frame 6 .5
+frame 5 .5
+frame 6 4.2 //just before zoom in around 29.5 seconds 
+control 1002 590 0 .35 2
+control - - - - .5
+control 1002 820 0 .35 2
+control - - - - 14
+control 1239 363 0 .15 3
+control 1240 367 0 .15 .1
+control 1239 363 0 .15 .1
+control 1241 367 0 .15 .1
+control 1241 363 0 .15 .1
+control 1243 367 0 .15 .1
+control 1239 363 0 .15 .1 //end of comet landing around 48.6
+frame 6 .2
+control 779 485 0 .15 3.3
+frame 7 .1
+frame 8 .1
+frame 1 .1
+frame 2 .1 
+control 1220 603 0 .15 2
+frame 1 .1
+frame 8 .1
+frame 7 .1
+control 1165 643 0 .15 1.8
+control 1067 675 0 .15 1.4
+control 915 690 0 .15 1.4
+control 813 661 0 .15 1.7
+control 813 661 0 .15 .5 //63
+frame 6 0
+hide //Disappears into the city at around the 64second mark //Above is done any mods should be frames ONLY
+control - - - - 40 //104.41
+show
+control 800 665 - - 1
+control 790 675 - - 1
+control - - - - 9.7 //tree gets chopped down around 116.11 second mark
+control 795 665 - - .1
+control 795 655 - - .1
+control 800 650 - - .1
+control 800 655 - - .1
+control 800 655 - - 2
+control 780 640 - - 1.5
+control 740 657 - - 1.5
+control 710 657 - - 1.5
+control 710 657 - - 1
+frame 5 .5
+frame 4 .5
+control 770 630 - - 1.5
+control 780 650 - - 1.5
+control 800 661 - - 1.5
+control 813 661 0 .15 2.5
+frame 3 0
+hide //132.01
+control 813 661 0 .15 8 //running around the city with lights going off ends at 140
+show
+control 813 661 0 .15 .5 //leaves the city heading for the mountain top
+control 887 696 0 .15 1 //confrontation
+control 887 696 0 .15 1
+control 915 690 0 .15 1
+control 1067 675 0 .15 .5
+control 1165 643 0 .15 .5
+control 1220 603 0 .15 .4
+frame 4 .3
+frame 5 .3
+frame 6 .3
+control 779 485 0 .15 3.5
+frame 5 .3
+frame 4 .3
+frame 3 .1
+control 1239 363 0 .15 8 
+frame 4 .1
+frame 5 .1
+frame 6 .1 //end main character actions 157.41

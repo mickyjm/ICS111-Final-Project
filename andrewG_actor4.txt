@@ -1,0 +1,85 @@
+hide //Door Script
+control 640 350 0 1 63
+show  //main character enters
+frame 1 .2
+frame 2	.2
+frame 3 .2
+frame 4 .2
+frame 5 .2
+frame 6 1.5
+frame 5 .2
+frame 4 .2
+frame 3 .2
+frame 2 .2
+frame 1 .2
+hide
+control 640 350 0 1 7.5
+show //secondary characters exit
+frame 1 .2
+frame 2	.2
+frame 3 .2
+frame 4 .2
+frame 5 .2
+frame 6 2.5
+frame 5 .2
+frame 4 .2
+frame 3 .2
+frame 2 .2
+frame 1 .2
+hide
+control 640 350 0 1 25
+show 	//main character exits
+frame 1 .2
+frame 2	.2
+frame 3 .2
+frame 4 .2
+frame 5 .2
+frame 6 1.5
+frame 5 .2
+frame 4 .2
+frame 3 .2
+frame 2 .2
+frame 1 .2
+hide
+control 640 350 0 1 12
+show	//secondary characters enter
+frame 1 .2
+frame 2	.2
+frame 3 .2
+frame 4 .2
+frame 5 .2
+frame 6 2.5
+frame 5 .2
+frame 4 .2
+frame 3 .2
+frame 2 .2
+frame 1 .2
+hide
+control 640 350 0 1 7
+show  	//main character enters
+frame 1 .2
+frame 2	.2
+frame 3 .2
+frame 4 .2
+frame 5 .2
+frame 6 1.5
+frame 5 .2
+frame 4 .2
+frame 3 .2
+frame 2 .2
+frame 1 .2
+hide
+control 640 350 0 1 4
+show    //main character exits with secondary characters behind
+frame 1 .2
+frame 2	.2
+frame 3 .2
+frame 4 .2
+frame 5 .2
+frame 6 3.5
+frame 5 .2
+frame 4 .2
+frame 3 .2
+frame 2 .2
+frame 1 .2
+hide	//end of door script
